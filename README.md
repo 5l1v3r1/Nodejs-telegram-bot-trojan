@@ -1,8 +1,8 @@
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/TeamDarkAnon)
 
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com)
+[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/technicalhayden)
 
-#                     TELE RAT
+#                   CUBE TROJAN 
 
 A multifunctional Telegram based Android RAT  without port forwarding.
 ## Features
@@ -99,6 +99,6 @@ Dogerat is built for both Educational and Internal use ONLY.
 ## ALCOHOL SUPPORT 
 !["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
 - Bitcoin
-- 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd
+- 1LeLwYyDHu51875aenZaNcnMrEbHwEKJd
 - Usdt trc20
 - TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
